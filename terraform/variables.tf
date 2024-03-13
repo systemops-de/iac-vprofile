@@ -11,8 +11,8 @@ variable "clusterName" {
 }
 
 
-<<<<<<< HEAD
-##########
+
+###
 
 
 
